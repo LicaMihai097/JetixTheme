@@ -14,7 +14,7 @@ const slides = [
 {
 title:"POKÉMON",
 description:"Prinde-i pe toți într-o aventură legendară.",
-image:"https://i.pinimg.com/1200x/52/15/70/521570519b83fd60194d678660c0e700.jpg"
+image:"assets/hero/pokemon.jpg"
 },
 
 {
