@@ -20,19 +20,19 @@ image:"assets/hero/pokemon.jpg"
 {
 title:"GALACTIK FOOTBALL",
 description:"Fluxul decide totul.",
-image:"https://img.cartoongoodies.com/wp-content/uploads/2022/09/Galactik-Football-Snow-Kids-Team.png"
+image:"assets/hero/GalactickFootball.png"
 },
 
 {
 title:"BEN 10",
 description:"It's Hero Time!",
-image:"https://rosepng.com/wp-content/uploads/elementor/thumbs/pixelcut-export-qutgniy4i7l1f40z60tn40ms8m6han8zns7bpt6v0i.png"
+image:"assets/hero/ben10.png"
 },
 
 {
 title:"YU-GI-OH!",
 description:"Este timpul pentru Duel!",
-image:"https://upload.wikimedia.org/wikipedia/commons/2/21/Yu-Gi-Oh%21.png"
+image:"assets/hero/Yu-Gi-Oh!.png"
 }
 
 ];
