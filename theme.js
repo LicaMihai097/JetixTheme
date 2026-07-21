@@ -14,25 +14,25 @@ const slides = [
 {
 title:"POKÉMON",
 description:"Prinde-i pe toți într-o aventură legendară.",
-image:"https://AICI_LINK_POZA_1.jpg"
+image:"https://i.pinimg.com/1200x/52/15/70/521570519b83fd60194d678660c0e700.jpg"
 },
 
 {
 title:"GALACTIK FOOTBALL",
 description:"Fluxul decide totul.",
-image:"https://AICI_LINK_POZA_2.jpg"
+image:"https://img.cartoongoodies.com/wp-content/uploads/2022/09/Galactik-Football-Snow-Kids-Team.png"
 },
 
 {
 title:"BEN 10",
 description:"It's Hero Time!",
-image:"https://AICI_LINK_POZA_3.jpg"
+image:"https://rosepng.com/wp-content/uploads/elementor/thumbs/pixelcut-export-qutgniy4i7l1f40z60tn40ms8m6han8zns7bpt6v0i.png"
 },
 
 {
 title:"YU-GI-OH!",
 description:"Este timpul pentru Duel!",
-image:"https://AICI_LINK_POZA_4.jpg"
+image:"https://upload.wikimedia.org/wikipedia/commons/2/21/Yu-Gi-Oh%21.png"
 }
 
 ];
