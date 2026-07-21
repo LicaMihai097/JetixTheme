@@ -51,7 +51,7 @@ hero.innerHTML=`
 
 <div class="hero-logo">
 
-<img src="assets/hero/LogoJetix.png">
+<img src="assets/logo/LogoJetix.png">
 
 <h1>Generation</h1>
 
