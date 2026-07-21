@@ -200,6 +200,19 @@ body{
     text-shadow:0 5px 20px black;
 
 }
+.hero-logo img{
+
+    display:block;
+
+    width:260px;
+
+    height:auto;
+
+    margin-bottom:15px;
+
+    border:2px solid red;
+
+}
 
 .hero-desc{
 
